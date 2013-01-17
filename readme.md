@@ -1,0 +1,3 @@
+# Ruby on Rails Tutorial: first application
+
+This is the first application for Douglas Coombs.  Trying to learn how to do this...
